@@ -1,0 +1,5 @@
+rootProject.name = 'netty-girl'
+
+include 'api-example'
+include 'book-example'
+
